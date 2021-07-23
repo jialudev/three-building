@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "three": "^0.106.2",
+    "three": "^0.125.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
   },
